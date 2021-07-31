@@ -27,7 +27,7 @@
  - *Which are the most popular casual dining Restaurant chains?*
 ## Dependencies:
 
-###Libraries:
+### Libraries:
  - __pandas__
  - __numpy__
  - __matplotlib.pyplot__
@@ -37,7 +37,7 @@
  - __plotly.offline__
  - __geopy.geocoders__
  - __folium__
-###Data:
+### Data:
  __link of the data used in this project:__ `https://drive.google.com/file/d/1cuI54tB0SkL-0Mogn1TZt-pOVbxsTvVq/view?usp=sharing`
  You need to configure the search path of the data where you have it stored in the variable: 
  - "df"
